@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi, I'm Daniel Medina 👋
+I'm a first-year college student in the CST-Computer Systems Engeneering program with a passion for programming, cloud computing and security.
 
-<!--
-**MedinaPiRRy/MedinaPiRRy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technologies & Tools
+Programming Languages: Java, JavaScript, HTML, CSS, PHP, Shell
+Databases: MySQL
+Cloud Platforms: AWS, Azure
+Tools: Docker, Excel
+📚 Education
+Currently pursuing a Bachelor's degree in CST-Computer Systems Engeneering
+🌐 Connect with Me
+Facebook
+Instagram
+📈 GitHub Stats
+MedinaPiRRy's GitHub stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Achievements
+Google Career Certificate - Technical Support Fundamentals
+🔧 Projects
+Currently working on JavaFX GUI.
+📫 Contact Me
+Medina.khe@icloud.com
