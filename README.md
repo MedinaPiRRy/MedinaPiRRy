@@ -4,13 +4,21 @@ I'm a first-year college student in the CST-Computer Systems Engeneering program
 
 💻 Technologies & Tools: 
 
-Programming Languages: Java, JavaScript, HTML, CSS, PHP, Shell
+Programming Languages: 
+coffee: Java
+:computer: JavaScript
+:art: HTML/CSS
 
-Databases: MySQL
+Databases: 
+:floppy_disk: MySQL
 
-Cloud Platforms: AWS, Azure
+Cloud Platforms: 
+:cloud: AWS/Azure
 
-Tools: Docker, Excel
+Tools: 
+:whale: Docker
+:shell: Shell
+:bar_chart: Excel
 
 📚 Education:
 
@@ -24,7 +32,7 @@ Instagram
 📈 GitHub Stats:
 
 MedinaPiRRy's GitHub stats
-
+![image](https://user-images.githubusercontent.com/123497811/225648734-d560a719-2bee-4709-8109-6a8d500820d4.png)
 🏆 Achievements:
 
 Google Career Certificate - Technical Support Fundamentals
