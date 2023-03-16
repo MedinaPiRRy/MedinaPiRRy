@@ -1,46 +1,32 @@
+<div align="center">
 Hi, I'm Daniel Medina 👋
-
 I'm a first-year college student in the CST-Computer Systems Engeneering program with a passion for programming, cloud computing and security.
 
-💻 Technologies & Tools: 
+💻 Technologies & Tools:
+Programming Languages: ☕ Java 💻 JavaScript 🎨 HTML/CSS
 
-Programming Languages: 
-:coffee: Java
-:computer: JavaScript
-:art: HTML/CSS
+Databases: 💾 MySQL
 
-Databases: 
-:floppy_disk: MySQL
+Cloud Platforms: ☁️ AWS/Azure
 
-Cloud Platforms: 
-:cloud: AWS/Azure
-
-Tools: 
-:whale: Docker
-:shell: Shell
-:bar_chart: Excel
+Tools: 🐳 Docker 🐚 Shell 📊 Excel
 
 📚 Education:
-
 Currently pursuing a Bachelor's degree in CST-Computer Systems Engeneering
 
 🌐 Connect with Me:
-
-Facebook
-Instagram
+Facebook Instagram
 
 📈 GitHub Stats:
-
 MedinaPiRRy's GitHub stats
 
 🏆 Achievements:
-
 Google Career Certificate - Technical Support Fundamentals
 
 🔧 Projects:
-
 Currently working on JavaFX GUI.
 
 📫 Contact Me:
-
 Medina.khe@icloud.com
+
+</div>
