@@ -1,33 +1,42 @@
-<div align="center">
-Hi, I'm Daniel Medina 👋
-  
-I'm a first-year college student in the CST-Computer Systems Engeneering program with a passion for programming, cloud computing and security.
+# Hi, I'm Daniel Medina 👋
 
-💻 Technologies & Tools:
-Programming Languages: ☕ Java 💻 JavaScript 🎨 HTML/CSS
+I'm a first-year college student in the CST-Computer Systems Engineering program with a passion for programming, cloud computing, and security.
 
-Databases: 💾 MySQL
+## 💻 Technologies & Tools
 
-Cloud Platforms: ☁️ AWS/Azure
+* **Programming Languages:** 
+  * ☕ Java 
+  * 💻 JavaScript 
+  * 🎨 HTML/CSS
+* **Databases:** 
+  * 💾 MySQL
+* **Cloud Platforms:** 
+  * ☁️ AWS/Azure
+* **Tools:** 
+  * 🐳 Docker 
+  * 🐚 Shell 
+  * 📊 Excel
 
-Tools: 🐳 Docker 🐚 Shell 📊 Excel
+## 📚 Education
 
-📚 Education:
-Currently pursuing a Bachelor's degree in CST-Computer Systems Engeneering
+Currently pursuing a Bachelor's degree in CST-Computer Systems Engineering.
 
-🌐 Connect with Me:
-Facebook Instagram
+## 🌐 Connect with Me
 
-📈 GitHub Stats:
-MedinaPiRRy's GitHub stats
+[Facebook](https://www.facebook.com/medina.khe/) • [Instagram](https://www.instagram.com/dios_medina/)
 
-🏆 Achievements:
-Google Career Certificate - Technical Support Fundamentals
+## 📈 GitHub Stats
 
-🔧 Projects:
-Currently working on JavaFX GUI.
+![MedinaPiRRy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedinaPiRRy&show_icons=true&theme=radical)
 
-📫 Contact Me:
-Medina.khe@icloud.com
+## 🏆 Achievements
 
-</div>
+* Google Career Certificate - Technical Support Fundamentals
+
+## 🔧 Projects
+
+* Currently working on JavaFX GUI.
+
+## 📫 Contact Me
+
+📧 Medina.khe@icloud.com
