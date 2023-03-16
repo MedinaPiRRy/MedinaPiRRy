@@ -1,5 +1,6 @@
 <div align="center">
 Hi, I'm Daniel Medina 👋
+  
 I'm a first-year college student in the CST-Computer Systems Engeneering program with a passion for programming, cloud computing and security.
 
 💻 Technologies & Tools:
