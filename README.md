@@ -32,7 +32,7 @@ Instagram
 📈 GitHub Stats:
 
 MedinaPiRRy's GitHub stats
-![image](https://user-images.githubusercontent.com/123497811/225648734-d560a719-2bee-4709-8109-6a8d500820d4.png)
+
 🏆 Achievements:
 
 Google Career Certificate - Technical Support Fundamentals
