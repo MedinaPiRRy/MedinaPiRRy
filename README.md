@@ -5,7 +5,7 @@ I'm a first-year college student in the CST-Computer Systems Engeneering program
 💻 Technologies & Tools: 
 
 Programming Languages: 
-coffee: Java
+:coffee: Java
 :computer: JavaScript
 :art: HTML/CSS
 
