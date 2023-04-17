@@ -35,7 +35,9 @@ Currently pursuing a Bachelor's degree in CST-Computer Systems Engineering.
 
 ## 🔧 Projects
 
-* Currently working on JavaFX GUI.
+* REACT Website - Portafolio Interface.
+* Python Game.
+* JS Simple Application.
 
 ## 📫 Contact Me
 
