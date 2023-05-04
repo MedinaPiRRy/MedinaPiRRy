@@ -9,17 +9,17 @@
 
 ## 💻 Technologies & Tools
 
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" alt="postman"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
-<code><img height="30" src="https://iconape.com/wp-content/png_logo_vector/visual-basic-for-applications-vba.png" alt="VBA"></code>
-<code><img height="30" src="https://powerbi.microsoft.com/themes/powerbi/img/favicon.ico" alt="powerbi"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/VBA-Logo.svg/1200px-VBA-Logo.svg.png" alt="VBA" style="background:white;padding:2px;"></code>
+<code><img height="30" src="https://seeklogo.com/images/P/power-bi-logo-0C0666F64C-seeklogo.com.png" alt="powerbi"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mariadb-logo.png/1200px-Mariadb-logo.png" alt="mariadb"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macos"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualparadigm/visualparadigm-original-wordmark.svg" alt="visual-paradigm"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Paradigm_Logo.svg/2560px-Visual_Paradigm_Logo.svg.png" alt="visual-paradigm" style="background:white;padding:2px;"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
@@ -29,7 +29,7 @@
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash"></code>
-<code><img height="30" src="https://seeklogo.com/images/E/excel-2013-logo-53429E5CCB-seeklogo.com.png" alt="excel"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1920px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel"></code>
 
 ## 📚 Education
 
