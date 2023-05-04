@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://avatars.githubusercontent.com/u/USERNAME" alt="YOUR NAME">
+  <img width="300" src="https://avatars.githubusercontent.com/u/USERNAME" alt="MedinaPiRRy">
 </p>
 <h1 align="center">Hi, I'm Daniel Medina 👋</h1>
 
