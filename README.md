@@ -11,7 +11,7 @@
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
-<code><img height="30" src="https://i.imgur.com/kzXVa8M.png" alt="VBA"></code>
+<code><img height="30" src="https://i.ibb.co/7gGVLdG/vba.png" alt="VBA"></code>
 <code><img height="30" src="https://i.imgur.com/FFL4soC.png" alt="powerbi"></code>
 <code><img height="30" src="https://i.imgur.com/rZ7zRZt.png" alt="mariadb"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows"></code>
