@@ -1,10 +1,10 @@
 <p align="center">
   <img width="300" src="https://avatars.githubusercontent.com/u/123497811?s=400&u=3ba7d7457d3fc2adddaac8477a6e16d62cc38347&v=4" alt="MedinaPiRRy">
 </p>
-<h1 align="center">Hi, I'm Daniel Medina 👋</h1>
+<h1 align="center">Hello, I'm Daniel Medina 👋</h1>
 
 <p align="center">
-  I'm a first-year college student in the CST-Computer Systems Engineering program with a passion for programming, cloud computing, and security.
+  I'm a diligent Computer Systems Engineering student with a focus on software development and data analysis. I bring a hands-on approach to coding, cloud computing, and system security. Currently working as a Data Analyst at AMJ CAMPBELL.
 </p>
 
 ## 👨‍💻 Programming Languages
@@ -57,9 +57,10 @@ Currently pursuing a Bachelor's degree in CST-Computer Systems Engineering.
 
 ## 🔧 Projects
 
-* REACT Website - Portafolio Interface.
-* Python Game.
-* JS Simple Application.
+* **Mobile/Web Application** (React Native, in progress)
+* **BlackJack Game** (Java, OOP)
+* **NoteTaking App** (JavaFX)
+* **SpanishCard Game** (JavaScript, Node.js, in progress)
 
 ## 📫 Contact Me
 
