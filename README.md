@@ -50,7 +50,7 @@ Currently pursuing a Bachelor's degree in CST-Computer Systems Engineering.
 <p align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=MedinaPiRRy&show_icons=true&theme=gruvbox">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedinaPiRRy&theme=vue-dark&layout=compact)](https://github.com/MedinaPiRRy/github-readme-stats)
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=MedinaPiRRy&theme=vue-dark&layout=compact)](https://github.com/MedinaPiRRy/github-readme-stats)">
 </p>
 
 ## 🏆 Achievements
