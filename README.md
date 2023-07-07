@@ -48,8 +48,6 @@ Currently pursuing a Bachelor's degree in CST-Computer Systems Engineering.
 ## 📈 GitHub Stats
 
 <p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=MedinaPiRRy&show_icons=true&theme=gruvbox">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedinaPiRRy)](https://github.com/anuraghazra/github-readme-stats)
 
