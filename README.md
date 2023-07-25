@@ -59,8 +59,9 @@ Currently pursuing a Bachelor's degree in CST-Computer Systems Engineering.
 
 * **Mobile/Web Application** (React Native, in progress)
 * **BlackJack Game** (Java, OOP)
-* **NoteTaking App** (JavaFX)
-* **SpanishCard Game** (JavaScript, Node.js, in progress)
+* **NoteTaking App** (Java, JavaFX)
+* **SpanishCard Game** (JavaScript, Node.js, Express.js in progress)
+* **LatinRestaurant Website** (JavaScript, HTML, Tailwindcss in progress)
 
 ## 📫 Contact Me
 
