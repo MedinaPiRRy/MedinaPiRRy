@@ -47,9 +47,10 @@ Currently pursuing a Bachelor's degree in CST-Computer Systems Engineering.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedinaPiRRy&theme=vue-dark&layout=compact">
-</p>
+![Repositories](https://img.shields.io/badge/Repositories-16-blue)
+![Followers](https://img.shields.io/badge/Followers-5-green)
+![Following](https://img.shields.io/badge/Following-15-yellow)
+![Stars](https://img.shields.io/badge/Stars-0-orange)
 
 ## 🏆 Achievements
 
