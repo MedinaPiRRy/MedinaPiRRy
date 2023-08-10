@@ -47,10 +47,8 @@ Currently pursuing a Bachelor's degree in CST-Computer Systems Engineering.
 
 ## 📈 GitHub Stats
 
-![Repositories](https://img.shields.io/badge/Repositories-16-blue)
-![Followers](https://img.shields.io/badge/Followers-5-green)
-![Following](https://img.shields.io/badge/Following-15-yellow)
-![Stars](https://img.shields.io/badge/Stars-0-orange)
+<img src="[https://github-readme-stats.vercel.app/api?username=MedinaPiRRy&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=MedinaPiRRy&theme=vue-dark&show_icons=true&include_all_commits=true)" alt="MedinaPiRRy's GitHub stats">
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedinaPiRRy&theme=vue-dark&show_icons=true&include_all_commits=true)](https://github.com/MedinaPiRRy/github-readme-stats)
 
 ## 🏆 Achievements
 
