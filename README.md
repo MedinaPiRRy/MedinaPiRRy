@@ -4,7 +4,7 @@
 <h1 align="center">Hey, I'm Daniel Medina 👋</h1>
 
 <p align="center">
-  I'm a passionate Computer Systems Technology student specializing in full-stack development and systems engineering. I have hands-on experience with modern frameworks, database management, and cloud services. My focus is on building robust, scalable applications with clean architecture and maintainable code. Currently working as a First-Level IT Support for the City of Mississauga.
+  I'm a passionate Computer Systems Technology Engineer specializing in full-stack development and systems engineering. I have hands-on experience with modern frameworks, database management, and cloud services. My focus is on building robust, scalable applications with clean architecture and maintainable code. Relevant experience includes a Data Analyst position at AMJ and a Help Desk/Hardware Support role at the City of Mississauga.
 </p>
 
 ## 🚀 Featured Projects
@@ -58,12 +58,6 @@
 - 🔄 Refactoring legacy codebases for clarity, performance, and maintainability
 - 🧩 Role-Based Access Control, Authentication Flows, and Secure API Practices
 - 🐳 Containerizing apps and APIs for modular deployment (Docker, IIS)
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedinaPiRRy&show_icons=true&theme=radical" alt="Daniel's GitHub Stats">
-</p>
 
 ## 📫 Let's Connect
 
